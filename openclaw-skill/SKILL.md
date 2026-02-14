@@ -8,7 +8,7 @@ description: Send speech text to a Qwen3 TTS-style HTTP API via POST. Use when t
 
 
 
-\# qwen3-speak
+\# qwen3-tts
 
 
 
@@ -81,4 +81,5 @@ python3 /home/edge/.openclaw/workspace/skills/qwen3-speak/scripts/qwen3\_speak.p
 \- Script prints HTTP status and response body.
 
 \- Treat non-2xx responses as failure and report concise error text.
+
 
