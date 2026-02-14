@@ -26,7 +26,7 @@ Run the helper script and pass the exact text to speak:
 
 ```bash
 
-python3 /home/hostname/.openclaw/workspace/skills/qwen3-speak/scripts/qwen3\_speak.py "Hello Kevin"
+python3 /home/username/.openclaw/workspace/skills/qwen3-speak/scripts/qwen3\_speak.py "Hello Kevin"
 
 ```
 
@@ -58,7 +58,7 @@ python3 /home/hostname/.openclaw/workspace/skills/qwen3-speak/scripts/qwen3\_spe
 
 ```bash
 
-python3 /home/ehostname/.openclaw/workspace/skills/qwen3-speak/scripts/qwen3\_speak.py \\
+python3 /home/username/.openclaw/workspace/skills/qwen3-speak/scripts/qwen3\_speak.py \\
 
 &nbsp; "Custom line" \\
 
@@ -81,6 +81,7 @@ python3 /home/ehostname/.openclaw/workspace/skills/qwen3-speak/scripts/qwen3\_sp
 \- Script prints HTTP status and response body.
 
 \- Treat non-2xx responses as failure and report concise error text.
+
 
 
 
