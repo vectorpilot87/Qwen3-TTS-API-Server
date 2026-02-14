@@ -139,6 +139,7 @@ curl -X POST http://localhost:8000/speak \
     "text": "This is CustomVoice mode using a fixed speaker.",
     "language": "English",
     "instruct": "neutral tone, clear and natural speech",
+    "ivoice": "Vivian",
   }'
 ```
 
